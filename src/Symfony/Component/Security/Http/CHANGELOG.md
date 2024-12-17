@@ -1,6 +1,10 @@
 CHANGELOG
 =========
 
+7.3
+---
+ * Rename property userFqcn to userFqcnHash, remove method getUserFqcn, add method getUserFqcnHash.
+
 7.2
 ---
 
